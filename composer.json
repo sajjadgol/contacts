@@ -13,7 +13,7 @@
             "Goli\\Contact\\" : "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.0",
     "extra": {
         "laravel" : {
             "providers" : [
