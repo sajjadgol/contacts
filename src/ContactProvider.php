@@ -1,6 +1,6 @@
 <?php
 
-namespace Gol\Contact;
+namespace Goli\Contact;
 
 
 

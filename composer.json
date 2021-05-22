@@ -1,5 +1,5 @@
 {
-    "name": "gol/contact",
+    "name": "goli/contact",
     "description": "a sample package",
     "license": "MIT",
     "authors": [
@@ -10,14 +10,14 @@
         ],
     "autoload": {
         "psr-4": {
-            "Gol\\Contact\\" : "src"
+            "Goli\\Contact\\" : "src"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel" : {
             "providers" : [
-                "Gol\\Contact\\ContactProvider"
+                "Goli\\Contact\\ContactProvider"
             ]
         }
     }
